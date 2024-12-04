@@ -1,0 +1,13 @@
+
+/* Contact page styles */
+.contact {
+  padding: 20px;
+}
+
+.contact input,
+.contact textarea {
+  padding: 10px;
+  margin: 10px;
+  width: 100%;
+  max-width: 600px;
+}

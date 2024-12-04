@@ -1,0 +1,12 @@
+
+/* Ask Question page styles */
+.ask-question {
+  padding: 20px;
+}
+
+.ask-question input {
+  padding: 10px;
+  margin: 10px;
+  width: 100%;
+  max-width: 600px;
+}

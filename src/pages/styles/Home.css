@@ -1,0 +1,10 @@
+/* Home page styles */
+.home {
+  text-align: center;
+  padding: 50px;
+}
+
+.home h1 {
+  color: #4a4e69;
+}
+
